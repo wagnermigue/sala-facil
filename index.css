@@ -1,0 +1,54 @@
+header{
+    background-color: aqua;
+}
+
+.logo{
+    width: 250px;
+
+}
+
+nav li{
+    display: inline;
+    margin-left: 30px;
+   margin-right: 30px;
+    text-align:center;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: left;
+}
+
+#conta{
+   position: absolute;
+   right: 50px;
+}
+
+body{
+    background-color: brown;
+}
+
+table{
+    margin: auto;
+    font-size: 35px;
+    border: 10px;
+}
+
+thead{
+    background-color: white;
+    font-weight:bold;
+}
+
+tbody{
+    background-color: burlywood;
+    font-weight: 'times new roman';
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 8px 15px;
+}

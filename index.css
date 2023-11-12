@@ -1,0 +1,101 @@
+header{
+    background-color: aqua;
+}
+
+.logo{
+    width: 200px;
+
+}
+
+nav li{
+    display: inline;
+    margin-left: 30px;
+   margin-right: 30px;
+    text-align: left;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: left;
+}
+
+#conta{
+   position: absolute;
+   right: 50px;
+}
+
+body{
+    background-color: brown;
+}
+
+table{
+    margin: auto;
+    font-size: 35px;
+    border: 10px;
+}
+
+thead{
+    background-color: white;
+    font-weight:bold;
+}
+
+tbody{
+    background-color: burlywood;
+    font-weight: 'times new roman';
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 8px 15px;
+}
+.foto_foda{
+    width: 250px;
+    float: left;
+    margin: 20px 50px 50px 50px;
+}
+
+footer{
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    clear: left;
+    font-size: 35px;
+}
+
+form{
+    text-align: left;
+    padding: 100px 100px 100px;
+    font-size: 20px;
+}
+
+form label{
+    display: block;
+}
+
+.txt_bv{
+    font-size: 50px;
+    padding: 100px 100px 100px
+}
+
+footer li{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+}
+
+#tabelanormal{
+    padding-bottom: 50px;
+}
+
+h2{
+    font-size: 25px;
+    color: black ; 
+    background-color: white;
+}
